@@ -94,4 +94,4 @@ MIT License. See `LICENSE` for more details.
 
 Built with ❤️ by the eHealth Africa Data Science Team.
 
-For inquiries: [email@example.com](mailto:victornonso44@gmail.com)
+For inquiries: (mailto:victornonso44@gmail.com)
